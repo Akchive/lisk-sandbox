@@ -77,3 +77,14 @@ Once deployed, I interacted with the contract using the buttons provided by Remi
     1.  Used the `updateProfile` function with new details.
     2.  Clicked "transact".
     3.  Called `getProfile` again with the same address and confirmed that the new, updated information was displayed. This verified that the update logic works.
+ 
+<img width="1895" height="898" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/211a963c-0449-43ed-acbe-db217e7c2e1a" />
+<img width="1909" height="956" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/04e34761-0e74-4ed2-8829-a16e8118953f" />
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/b4d7723c-04ba-419b-b73b-99c130884a27" />
+<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/43ac1a7c-c48f-40cd-844d-260b76f1bdce" />
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/a0f84897-516e-4396-b8ff-771f7a06abaf" />
+
+
+
+
+
