@@ -79,10 +79,15 @@ Once deployed, I interacted with the contract using the buttons provided by Remi
     3.  Called `getProfile` again with the same address and confirmed that the new, updated information was displayed. This verified that the update logic works.
  
 <img width="1895" height="898" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/211a963c-0449-43ed-acbe-db217e7c2e1a" />
-<img width="1909" height="956" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/04e34761-0e74-4ed2-8829-a16e8118953f" />
-<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/b4d7723c-04ba-419b-b73b-99c130884a27" />
-<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/43ac1a7c-c48f-40cd-844d-260b76f1bdce" />
-<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/a0f84897-516e-4396-b8ff-771f7a06abaf" />
+<img width="1909" height="891" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/ad801365-71a5-4a14-8d58-6273454bf55c" />
+<img width="1893" height="905" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/9df56684-9c64-4320-830b-83bdabe9eb7d" />
+<img width="1887" height="892" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/9f826d12-19d3-4a4c-a47b-bfa7397f3e03" />
+<img width="1895" height="906" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/c9599c9d-19e0-498f-ba2c-ba1335abef03" />
+
+
+
+
+
 
 
 
