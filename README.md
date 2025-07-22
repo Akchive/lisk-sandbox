@@ -65,7 +65,7 @@ Once deployed, I interacted with the contract using the buttons provided by Remi
 
 * **Registering a User:**
     1.  Used the `register` function.
-    2.  Entered my details (e.g., `"AJ"`, `19`, `"ajest@gmal.com"`) into the input fields.
+    2.  Entered my details (e.g., `"AJ"`, `19`, `"ajtest@gmail.com"`) into the input fields.
     3.  Clicked the "transact" button. The transaction was confirmed in the console.
 
 * **Viewing a Profile:**
