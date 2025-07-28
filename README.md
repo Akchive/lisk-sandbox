@@ -1,3 +1,8 @@
+This assignment is part of my **fellowship program at Dev3Pack**, where I'm building and revising core Solidity concepts week by week. These smart contracts are crafted to help me reinforce the fundamentals and prepare for real-world development tasks.
+
+---
+
+## 📚 Week 1 – Lecture 2
 # User Profile Smart Contract
 
 This project is a simple smart contract built with Solidity that allows users to register, update, and view a personal profile on an Ethereum-compatible blockchain. Each user is identified by their unique wallet address.
