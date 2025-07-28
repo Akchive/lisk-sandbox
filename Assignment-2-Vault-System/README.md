@@ -26,11 +26,11 @@ This project implements a basic **Vault system** using Solidity, as part of the 
 
 ---
 
-## 🚀 Deployment Instructions
+ 🚀 Deployment Instructions
 
 These are the exact steps followed to deploy this contract successfully:
 
-### 1. Generate wallets
+ 1. Generate wallets
 ```bash
 yarn generate
 ```
