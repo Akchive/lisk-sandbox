@@ -74,13 +74,6 @@ With the fix (`require(msg.sender == owner)`), this kind of attack **won’t wor
 
 ---
 
-## 📁 Files
-
-- [`AuditedPiggyBank.sol`](./AuditedPiggyBank.sol): Fixed version of the contract with proper owner check.
-- [`README.md`](./README.md): This file you're reading, explaining the vulnerability and the resolution.
-
----
-
 ## ✅ Final Thoughts
 
 This assignment helped me understand how a **small access control mistake** can make a smart contract extremely vulnerable.
