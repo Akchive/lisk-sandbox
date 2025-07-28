@@ -1,4 +1,4 @@
-This assignment is part of my **fellowship program at Dev3Pack**, where I'm building and revising core Solidity concepts week by week. These smart contracts are crafted to help me reinforce the fundamentals and prepare for real-world development tasks.
+This repository contains Solidity assignments completed as part of my fellowship program at Dev3Pack, created to help me revise and reinforce key smart contract concepts.
 
 ---
 
