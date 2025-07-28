@@ -18,7 +18,7 @@ This project implements a basic **Vault system** using Solidity, as part of the 
 ```bash
 .
 ├── contracts/
-│   ├── MathLib.sol
+│   ├── MathLab.sol
 │   ├── VaultBase.sol
 │   └── VaultManager.sol
 ├── README.md
