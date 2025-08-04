@@ -1,7 +1,0 @@
-# 🛍️ ShopListUI
-
-This is a product list project with a working cart, built as part of an assignment. It uses product data from a local `data.json` file and focuses on matching the given UI design as closely as possible.
-
-The goal is to dynamically display products, allow users to add/remove items to/from the cart, and show real-time updates to item count and total price.
-
-More details and setup instructions will be added soon once all files are in place.
